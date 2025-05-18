@@ -1,3 +1,7 @@
+---
+trigger: manual
+---
+
 # Software Requirements Specification: BusinessGene
 
 ## System Design

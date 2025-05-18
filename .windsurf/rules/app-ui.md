@@ -1,3 +1,7 @@
+---
+trigger: manual
+---
+
 ## User Interface Design Document: BusinessGene
 
 ### Layout Structure
@@ -75,7 +79,3 @@
 - **Alternative Text:** Provide alt text for meaningful images and icons (if not purely decorative).
 - **Resizable Text:** Ensure text can be resized using browser controls without breaking the layout.
 - **Forms:** Clearly label all form fields and provide error messages in an accessible way.
-
----
-
-This document outlines the UI design direction. Let me know if you have any further refinements or if this aligns well with your vision!

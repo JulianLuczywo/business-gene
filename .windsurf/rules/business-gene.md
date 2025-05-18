@@ -1,3 +1,7 @@
+---
+trigger: manual
+---
+
 # BusinessGene Product Requirements Document
 
 ## 1. Elevator Pitch
@@ -71,11 +75,3 @@ BusinessGene is a SaaS platform designed to help solo entrepreneurs, indie devel
 - **Team Collaboration:** Enable multiple users to collaborate on a single business idea.
 - **Advanced Export Options:** More file types, integrations with popular business tools.
 - **Flexible Pricing Plans:** Freemium and paid tiers with feature differentiation.
-
----
-
-```
-
-Let me know if you want to adjust or expand any section!
-
-```
